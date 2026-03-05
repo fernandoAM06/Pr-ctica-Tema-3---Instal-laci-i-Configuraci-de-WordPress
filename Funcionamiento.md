@@ -25,3 +25,20 @@ Podemos ver como podemos escojer la categoria que queramos y navegarpor dentro
 ### 4.Contacto con la empresa
 
 Tenemos un aportado donde rellenas un formulario y te puedes poner en contacto con la empresa
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-3---Instal-laci-i-Configuraci-de-WordPress/blob/main/unnamed%20(3).png)
+
+
+## Funcionalidades implementadas
+
+El portal incluye las siguientes funcionalidades:
+
+Menú de navegación organizado por categorías de noticias.
+
+ Secciones informativas: noticias, resultados, clasificaciones y perfiles de jugadores.
+
+ Diseño responsive para distintos dispositivos.
+
+ Diseño visual personalizado usando temas y plugins de WordPress.
+
+ Interactividad: comentarios en noticias, enlaces relacionados y barra de búsqueda.
