@@ -1,1 +1,0 @@
-# Pr-ctica-Tema-3---Instal-laci-i-Configuraci-de-WordPress
