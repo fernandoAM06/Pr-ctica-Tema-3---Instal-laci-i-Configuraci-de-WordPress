@@ -42,3 +42,12 @@ Menú de navegación organizado por categorías de noticias.
  Diseño visual personalizado usando temas y plugins de WordPress.
 
  Interactividad: comentarios en noticias, enlaces relacionados y barra de búsqueda.
+
+
+ ## Noticias de la pagina
+
+ Como hemos visto antes tenemos diversos noticias como:
+
+ # Champions League y su sorteo
+ # Copa del rey y los ultimos reusltados
+ # Variedad de todas las ligas de europa con sus ultimos informes ya como lesiones o partidos
