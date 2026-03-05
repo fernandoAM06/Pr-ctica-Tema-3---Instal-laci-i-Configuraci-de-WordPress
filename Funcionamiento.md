@@ -48,6 +48,6 @@ Menú de navegación organizado por categorías de noticias.
 
  Como hemos visto antes tenemos diversos noticias como:
 
- # Champions League y su sorteo
- # Copa del rey y los ultimos reusltados
- # Variedad de todas las ligas de europa con sus ultimos informes ya como lesiones o partidos
+ ### Champions League y su sorteo
+ ### Copa del rey y los ultimos reusltados
+ ### Variedad de todas las ligas de europa con sus ultimos informes ya como lesiones o partidos
