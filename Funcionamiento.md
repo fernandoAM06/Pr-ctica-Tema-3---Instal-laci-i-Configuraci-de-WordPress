@@ -20,4 +20,4 @@ El menú permite acceder fácilmente a todas las páginas y categorías de notic
 
 Podemos ver como podemos escojer la categoria que queramos y navegarpor dentro
 
-!{}(https://github.com/fernandoAM06/Pr-ctica-Tema-3---Instal-laci-i-Configuraci-de-WordPress/blob/main/unnamed%20(2).png)
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-3---Instal-laci-i-Configuraci-de-WordPress/blob/main/unnamed%20(2).png)
